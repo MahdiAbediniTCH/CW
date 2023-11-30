@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
-	printf("Hello there!");
+	printf("Hello there!\n");
+	printf("GENERAL KENOBI.");
 }
 
